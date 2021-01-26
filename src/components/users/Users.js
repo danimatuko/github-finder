@@ -9,7 +9,7 @@ const Users = () => {
 	return githubContext.loading ? (
 		<Spinner />
 	) : (
-		<div style={userStyle}>
+		<div className="users" style={userStyle}>
 			{githubContext.users.map((user) => (
 				<UserItem
 					key={user.id}
