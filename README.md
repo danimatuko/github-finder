@@ -1,5 +1,8 @@
-## `Github-Finder`
-### `Get Information about guthub users`
+## Github-Finder     
+### Get Information about github users, using the github api.
+
+
+<img src="public/smartmockups_githubfinder.png" width="500px"/>
 
 
 ### `npm start`
